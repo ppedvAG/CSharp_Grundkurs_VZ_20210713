@@ -27,46 +27,46 @@
  
 
 ## M003 | KONTROLLSTRUKTUREN und BOOLESCHE LOGIK
-- [ ] logische Operatoren <!--[Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs) --> 
-- [ ] if-Abfrage <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) --> 
-- [ ] switch-Anweisung <!--[Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul003_Fragen/Program.cs) --> 
+- [x] logische Operatoren [Link](Uebungen/Modul003_01_BoolescheLogik/Program.cs)  
+- [x] if-Abfrage [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)  
+- [x] switch-Anweisung [Link](Uebungen/Modul003_02_Kontrollstrukturen/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul003_Fragen/Program.cs)  
 
 ## M004 | ARRAYS, SCHLEIFEN und ENUMS
-- [ ] Arrays <!--[Link](Uebungen/Modul004_01_Arrays/Program.cs) -->
-- [ ] Enums <!--[Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) -->
-- [ ] for-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] foreach-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] while-Schleifen <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] do-while-Schleife <!--[Link](Uebungen/Modul004_03_Schleifen/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul004_Fragen/Program.cs) -->
+- [x] Arrays [Link](Uebungen/Modul004_01_Arrays/Program.cs) 
+- [x] Enums [Link](Uebungen/Modul004_02_Enumeratoren/Program.cs) 
+- [x] for-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] foreach-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] while-Schleifen [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] do-while-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul004_Fragen/Program.cs) 
 
 
 ## M005 | STATISCHE MEMBER
-- [ ] Funktionen <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs) --> 
-- [ ] Eigenschaften <!--[Link](Uebungen/Modul005_01_statischeMember/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul005_Fragen/Program.cs) --> 
+- [x] Funktionen [Link](Uebungen/Modul005_01_statischeMember/Program.cs)  
+- [x] Eigenschaften [Link](Uebungen/Modul005_01_statischeMember/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul005_Fragen/Program.cs)  
 
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
-- [ ] Namespaces <!--[Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) --> 
-- [ ] Klassen <!--[Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) --> 
-- [ ] Felder <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs) --> 
-- [ ] Eigenschaften <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) --> 
-- [ ] Kapselungen <!--[Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) --> 
-- [ ] partielle Klassen und Methoden <!--[Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul006_Fragen) -->
+- [x] Namespaces [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs)  
+- [x] Klassen [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs)  
+- [x] Felder [Link](Uebungen/Modul006_02_FelderEigenschaften/Felder.cs)  
+- [x] Eigenschaften [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)  
+- [x] Kapselungen [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs)  
+- [x] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul006_Fragen) 
 
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
-- [ ] Objekte <!--[Link](Uebungen/Modul007_01_Objekte/Program.cs) --> 
-- [ ] Konstruktor und Destruktor <!--[Link](Uebungen/Modul007_01_Objekte/Program.cs) --> 
-- [ ] Garbage Collection
-- [ ] Überladung <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs) --> 
-- [ ] optionale Parameter <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs) --> 
-- [ ] out <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs) --> 
-- [ ] params <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs) --> 
-- [ ] ref <!--[Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs) --> 
+- [x] Objekte [Link](Uebungen/Modul007_01_Objekte/Program.cs)  
+- [x] Konstruktor und Destruktor [Link](Uebungen/Modul007_01_Objekte/Program.cs)  
+- [x] Garbage Collection
+- [x] Überladung [Link](Uebungen/Modul007_02_UeberlagerungParameter/Ueberladung.cs)  
+- [x] optionale Parameter [Link](Uebungen/Modul007_02_UeberlagerungParameter/OptionaleParameter.cs)  
+- [x] out [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortOut.cs)  
+- [x] params [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortParams.cs)  
+- [x] ref [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs)  
 - [ ] Fragen <!--[Link](Uebungen/Modul007_Fragen) -->
 
 
