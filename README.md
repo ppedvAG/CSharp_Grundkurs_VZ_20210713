@@ -100,41 +100,41 @@
 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [ ] Listen <!--[Link](Uebungen/Modul012_01_Listen/List.cs) --> 
-- [ ] Dictionary <!--[Link](Uebungen/Modul012_01_Listen/Dictionary.cs) --> 
-- [ ] Stack <!--[Link](Uebungen/Modul012_01_Listen/Stack.cs) --> 
-- [ ] Queue <!--[Link](Uebungen/Modul012_01_Listen/Queue.cs) --> 
-- [ ] Hashtable <!--[Link](Uebungen/Modul012_01_Listen/Hashtable.cs) --> 
-- [ ] Tuple <!--[Link](Uebungen/Modul012_01_Listen/Tuple.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul012_Fragen) -->
+- [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs)  
+- [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs)  
+- [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs)  
+- [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs)  
+- [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs)  
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs)  
+- [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
 
 ## M013 | DELEGATES und EVENTS (optional)
-- [ ] Action <!--[Link](Uebungen/Modul013_01_Delegates/Action.cs) --> 
-- [ ] Predicate <!--[Link](Uebungen/Modul013_01_Delegates/Predicate.cs) --> 
-- [ ] Func <!--[Link](Uebungen/Modul013_01_Delegates/Func.cs) --> 
-- [ ] anonyme Methoden <!--[Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) --> 
-- [ ] EventHandler <!--[Link](Uebungen/Modul013_02_Events/Program.cs) --> 
-- [ ] Timer <!--[Link](Uebungen/Modul013_03_Timer/Program.cs) --> 
+- [x] Action [Link](Uebungen/Modul013_01_Delegates/Action.cs)  
+- [x] Predicate [Link](Uebungen/Modul013_01_Delegates/Predicate.cs)  
+- [x] Func [Link](Uebungen/Modul013_01_Delegates/Func.cs)  
+- [x] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs)  
+- [x] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs)  
+- [x] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs)  
 
 
 ## M014 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch <!--[Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) --> 
-- [ ] Debugger 
-- [ ] UnitTests <!--[Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) --> 
+- [x] Fehlertypen
+- [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs)  
+- [x] Debugger 
+- [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs)  
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) -->
-- [ ] Dateidialog <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) -->
-- [ ] JSON <!--[Link](Uebungen/Modul015_02_JSON/Program.cs) -->
-- [ ] XML <!--[Link](Uebungen/Modul015_03_XML/Program.cs) -->
-- [ ] Fragen <!--[Link](Uebungen/Modul015_Fragen) -->
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) 
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs) 
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs) 
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul015_Fragen) 
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
 - [ ] API <!--[Link](Uebungen/Modul016_API) -->
 - [ ] Console <!--[Link](Uebungen/Modul016_Console) -->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF) -->
+- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
 
