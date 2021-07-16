@@ -134,7 +134,7 @@
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API) -->
-- [ ] Console <!--[Link](Uebungen/Modul016_Console) -->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
+- [x] API [Link](Uebungen/Modul016_API) 
+- [x] Console [Link](Uebungen/Modul016_Console) 
+- [x] WPF [Link](Uebungen/Modul016_WPF)
 
